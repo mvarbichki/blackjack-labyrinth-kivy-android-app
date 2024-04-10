@@ -2,16 +2,22 @@
 
 This is my first big Python project which involves the Kivy library. Initially, I did not plan to escalate it to an Android application so the project has plenty of room for improvements, but at this point, I do not plan to refactoring the code.
 
+
 GENERAL INFO
+
 Kivy library allows the building of cross-platform GUI apps. I decided to create my app for Android, but it can be easily implemented for other platforms such as Windows, Linux, iOS, etc.
 All the materials used in the app are free licenses and some are created by myself and my friends. The theme of the application is inspired by a popular RPG game POE.
 Google Play AAB file was compiled with Buildozer.
 It is a free game and can be downloaded from Google Play - https://play.google.com/store/apps/details?id=org.blackjacklabyrinth.blackjacklabyrinth
 
+
 GAME CONCEPT
+
 The game idea is for a 1v1 (player vs computer) Blackjack card game. The general rules of the blackjack game apply. Here comes the inspiration from the mentioned RPG game so I tweaked the rules. My goal was to create an unpredictable dynamic increasing difficulty card game.
 
+
 GAME INFORMATION:
+
 1. Win-loss-tie
   - Blackjack (if the sum of two cards is 21) beats non-Blackjack 21 and any other hand value.
   - Win: the player or the dealer wins if one of them owns a higher hand value on the check. If the player wins, he receives the bet amount multiplied by the profit percentage.
