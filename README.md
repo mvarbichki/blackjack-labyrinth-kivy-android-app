@@ -8,7 +8,7 @@ GENERAL INFO
 Kivy library allows the building of cross-platform GUI apps. I decided to create my app for Android, but it can be easily implemented for other platforms such as Windows, Linux, iOS, etc.
 All the materials used in the app are free licenses and some are created by myself and my friends. The theme of the application is inspired by a popular RPG game POE.
 Google Play AAB file was compiled with Buildozer.
-It is a free game and can be downloaded from Google Play - https://play.google.com/store/apps/details?id=org.blackjacklabyrinth.blackjacklabyrinth
+It is a free game and can be downloaded from Google Play - https://play.google.com/store/apps/details?id=org.blackjacklabyrinth.blackjacklabyrinth (I'm not updating the game, that's why it was removed from Google Play)
 
 Game Overview - https://www.youtube.com/watch?v=Wlm3dmHkQcg
 
